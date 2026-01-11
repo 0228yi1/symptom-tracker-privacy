@@ -1,0 +1,33 @@
+Privacy Policy for Symptom Tracker
+
+Last updated: January 2026
+
+Symptom Tracker respects your privacy and is committed to protecting your personal data.
+
+1. Information We Collect
+The app allows users to record health-related information such as symptoms and notes. This data is entered voluntarily by the user.
+
+2. How Data Is Used
+The data is used only to provide the core functionality of the app, such as displaying symptom history and trends.
+
+3. Data Storage
+All data is stored locally on the user’s device unless explicitly stated otherwise. We do not collect, transmit, or store data on external servers.
+
+4. Data Sharing
+We do not share your personal or health data with third parties.
+
+5. Data Security
+Reasonable technical measures are used to protect data stored within the app.
+
+6. Children’s Privacy
+This app is not intended for children under the age of 13.
+
+7. User Rights
+Users may delete their data at any time by uninstalling the app or clearing app data.
+
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+
+9. Contact
+If you have any questions about this Privacy Policy, please contact:
+Email: your-email@example.com
